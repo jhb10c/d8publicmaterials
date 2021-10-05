@@ -6,4 +6,4 @@ This repo contains the publicly available materials that are used in the Data 8 
 
 This includes: homeworks, labs, and notebooks used in lecture.
 
-This course content is based on Data 8 course, http://data8.org/, offered and created by UC Berkeley Foundations of Data Science.
+This course content is based on the Data 8 course, http://data8.org/, offered and created by UC Berkeley Foundations of Data Science.
